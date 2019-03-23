@@ -75,7 +75,7 @@ RGL（React-Grid-Layout 的缩写） 是 React-only，且不需要 jQuery。
 
 > GIF 来自[BitMEX.com](https://www.bitmex.com)的实际演示。
 
-\[**[Demo](http://llever.com/react-grid-layout-zh/examples/0-showcase.zh.html)\|[Changelog](/CHANGELOG.md)\|[CodeSandbox 可编辑 DEmo](https://codesandbox.io/s/5wy3rz5z1x?module=%2Fsrc%2FShowcaseLayout.js)**]
+\[**[Demo](http://llever.com/react-grid-layout-zh/examples/0-showcase.html)\|[Changelog](/CHANGELOG.md)\|[CodeSandbox 可编辑 DEmo](https://codesandbox.io/s/5wy3rz5z1x?module=%2Fsrc%2FShowcaseLayout.js)**]
 
 ## 目录
 
@@ -100,21 +100,21 @@ RGL（React-Grid-Layout 的缩写） 是 React-only，且不需要 jQuery。
 
 ## 演示
 
-1.  [展示](http://llever.com/react-grid-layout-zh/examples/0-showcase.zh.html)
-2.  [基本](http://llever.com/react-grid-layout-zh/examples/1-basic.zh.html)
-3.  [没有 拖放/调整大小 (仅是 布局)](http://llever.com/react-grid-layout-zh/examples/2-no-dragging.zh.html)
-4.  [乱排版式，自动更正](http://llever.com/react-grid-layout-zh/examples/3-messy.zh.html)
-5.  [在子级上，定义的布局](http://llever.com/react-grid-layout-zh/examples/4-grid-property.zh.html)
-6.  [静态元素](http://llever.com/react-grid-layout-zh/examples/5-static-elements.zh.html)
-7.  [添加/删除元素](http://llever.com/react-grid-layout-zh/examples/6-dynamic-add-remove.zh.html)
-8.  [将布局保存到本地存储](http://llever.com/react-grid-layout-zh/examples/7-localstorage.zh.html)
-9.  [将响应布局保存到本地存储(LocalStorage)](http://llever.com/react-grid-layout-zh/examples/8-localstorage-responsive.zh.html)
-10. [最小和最大宽度/高度](http://llever.com/react-grid-layout-zh/examples/9-min-max-wh.zh.html)
-11. [动态的，最小和最大宽度/高度](http://llever.com/react-grid-layout-zh/examples/10-dynamic-min-max-wh.zh.html)
-12. [无垂直紧凑（自由移动）](http://llever.com/react-grid-layout-zh/examples/11-no-vertical-compact.zh.html)
-13. [防止碰撞](http://llever.com/react-grid-layout-zh/examples/12-prevent-collision.zh.html)
-14. [错误案例](http://llever.com/react-grid-layout-zh/examples/13-error-case.zh.html)
-15. [工具箱](http://llever.com/react-grid-layout-zh/examples/14-toolbox.zh.html)
+1.  [展示](http://llever.com/react-grid-layout-zh/examples/0-showcase.html)
+2.  [基本](http://llever.com/react-grid-layout-zh/examples/1-basic.html)
+3.  [没有 拖放/调整大小 (仅是 布局)](http://llever.com/react-grid-layout-zh/examples/2-no-dragging.html)
+4.  [乱排版式，自动更正](http://llever.com/react-grid-layout-zh/examples/3-messy.html)
+5.  [在子级上，定义的布局](http://llever.com/react-grid-layout-zh/examples/4-grid-property.html)
+6.  [静态元素](http://llever.com/react-grid-layout-zh/examples/5-static-elements.html)
+7.  [添加/删除元素](http://llever.com/react-grid-layout-zh/examples/6-dynamic-add-remove.html)
+8.  [将布局保存到本地存储](http://llever.com/react-grid-layout-zh/examples/7-localstorage.html)
+9.  [将响应布局保存到本地存储(LocalStorage)](http://llever.com/react-grid-layout-zh/examples/8-localstorage-responsive.html)
+10. [最小和最大宽度/高度](http://llever.com/react-grid-layout-zh/examples/9-min-max-wh.html)
+11. [动态的，最小和最大宽度/高度](http://llever.com/react-grid-layout-zh/examples/10-dynamic-min-max-wh.html)
+12. [无垂直紧凑（自由移动）](http://llever.com/react-grid-layout-zh/examples/11-no-vertical-compact.html)
+13. [防止碰撞](http://llever.com/react-grid-layout-zh/examples/12-prevent-collision.html)
+14. [错误案例](http://llever.com/react-grid-layout-zh/examples/13-error-case.html)
+15. [工具箱](http://llever.com/react-grid-layout-zh/examples/14-toolbox.html)
 
 #### 使用 React-Grid-Layout 的项
 
@@ -123,7 +123,7 @@ RGL（React-Grid-Layout 的缩写） 是 React-only，且不需要 jQuery。
 - [Grafana](https://grafana.com/)
 - [Metabase](http://www.metabase.com/)
 - [HubSpot](http://www.hubspot.com)
-- [ComNetViz](http://www.grotto-networking.com/ComNetViz/ComNetViz.zh.html)
+- [ComNetViz](http://www.grotto-networking.com/ComNetViz/ComNetViz.html)
 - [Stoplight](https://app.stoplight.io)
 - [Reflect](https://reflect.io)
 - [ez-Dashing](https://github.com/ylacaute/ez-Dashing)
