@@ -15,7 +15,7 @@
 
 ---
 
-## 校对 🀄️
+## 校对 ✅
 
 <!-- doc-templite START generated -->
 <!-- repo = 'STRML/react-grid-layout' -->
@@ -32,21 +32,21 @@
 <!-- doc-templite END generated -->
 
 - [x] readme
-- [ ] 1.  [Showcase](./docs/mds/0-showcase.zh.md)
-- [ ] 2.  [基本](./docs/mds/1-basic.zh.md)
-- [ ] 3.  [没有 拖放/调整大小 (仅是 布局)](./docs/mds/2-no-dragging.zh.md)
-- [ ] 4.  [乱排版式，自动更正](./docs/mds/3-messy.zh.md)
-- [ ] 5.  [在子级上，定义的布局](./docs/mds/4-grid-property.zh.md)
-- [ ] 6.  [静态元素](./docs/mds/5-static-elements.zh.md)
-- [ ] 7.  [添加/删除元素](./docs/mds/6-dynamic-add-remove.zh.md)
-- [ ] 8.  [将布局保存到本地存储](./docs/mds/7-localstorage.zh.md)
-- [ ] 9.  [将响应布局保存到本地存储(LocalStorage)](./docs/mds/8-localstorage-responsive.zh.md)
-- [ ] 10. [最小和最大宽度/高度](./docs/mds/9-min-max-wh.zh.md)
-- [ ] 11. [动态的，最小和最大宽度/高度](./docs/mds/10-dynamic-min-max-wh.zh.md)
-- [ ] 12. [无垂直紧凑（自由移动）](./docs/mds/11-no-vertical-compact.zh.md)
-- [ ] 13. [防止碰撞](./docs/mds/12-prevent-collision.zh.md)
-- [ ] 14. [错误案例](./docs/mds/13-error-case.zh.md)
-- [ ] 15. [工具箱](./docs/mds/14-toolbox.zh.md)
+- [x] 1.  [展示](./docs/mds/0-showcase.zh.md)
+- [x] 2.  [基本](./docs/mds/1-basic.zh.md)
+- [x] 3.  [没有 拖放/调整大小 (仅是 布局)](./docs/mds/2-no-dragging.zh.md)
+- [x] 4.  [凌乱排版，自动更正](./docs/mds/3-messy.zh.md)
+- [x] 5.  [在子级上，定义的布局](./docs/mds/4-grid-property.zh.md)
+- [x] 6.  [静态元素](./docs/mds/5-static-elements.zh.md)
+- [x] 7.  [添加/删除元素](./docs/mds/6-dynamic-add-remove.zh.md)
+- [x] 8.  [将布局保存到本地存储](./docs/mds/7-localstorage.zh.md)
+- [x] 9.  [将响应布局，保存到本地存储(LocalStorage)](./docs/mds/8-localstorage-responsive.zh.md)
+- [x] 10. [最小和最大宽度/高度](./docs/mds/9-min-max-wh.zh.md)
+- [x] 11. [动态的，最小和最大宽度/高度](./docs/mds/10-dynamic-min-max-wh.zh.md)
+- [x] 12. [无垂直紧凑（自由移动）](./docs/mds/11-no-vertical-compact.zh.md)
+- [x] 13. [防止碰撞](./docs/mds/12-prevent-collision.zh.md)
+- [x] 14. [错误案例](./docs/mds/13-error-case.zh.md)
+- [x] 15. [工具箱](./docs/mds/14-toolbox.zh.md)
 
 ### 贡献
 
@@ -100,7 +100,7 @@ RGL（React-Grid-Layout 的缩写） 是 React-only，且不需要 jQuery。
 
 ## 演示
 
-1.  [Showcase](http://llever.com/react-grid-layout-zh/examples/0-showcase.zh.html)
+1.  [展示](http://llever.com/react-grid-layout-zh/examples/0-showcase.zh.html)
 2.  [基本](http://llever.com/react-grid-layout-zh/examples/1-basic.zh.html)
 3.  [没有 拖放/调整大小 (仅是 布局)](http://llever.com/react-grid-layout-zh/examples/2-no-dragging.zh.html)
 4.  [乱排版式，自动更正](http://llever.com/react-grid-layout-zh/examples/3-messy.zh.html)
@@ -130,7 +130,7 @@ RGL（React-Grid-Layout 的缩写） 是 React-only，且不需要 jQuery。
 - [Kibana](https://www.elastic.co/products/kibana)
 - [Graphext](https://graphext.com/)
 
-_知道别人吗？创建个 PR，让我知道！_
+_知道别的吗？创建个 PR，让我知道！_
 
 ## 特征
 
@@ -139,7 +139,7 @@ _知道别人吗？创建个 PR，让我知道！_
 - 可拖动的小部件
 - 可调整大小的小部件
 - 静态小部件
-- 可配置包装：水平，垂直或关闭
+- 可配置砌砖：水平，垂直或关闭
 - 拖动和调整大小的边缘检查
 - 可以添加或删除小部件，而无需重建网格
 - 布局可以序列化和恢复
@@ -236,7 +236,7 @@ class MyFirstGrid extends React.Component {
 
 ### 响应模式的用法
 
-要使 RGL 响应模式，请使用`<ResponsiveReactGridLayout>`元素：
+应用 RGL 的响应模式，请使用`<ResponsiveReactGridLayout>`元素：
 
 ```js
 import {Responsive as ResponsiveGridLayout} from 'react-grid-layout';
@@ -476,9 +476,9 @@ RGL 的网格项或布局项支持以下属性。初始化网格时，构建一�
 
 - [x] 基本网格布局
 - [x] 流体（Fluid）网格布局
-- [x] 网格包装
+- [x] 网格砌砖
 - [x] 可拖动的网格项
-- [x] 拖动时，实时网格打包
+- [x] 拖动时，实时网格砌砖
 - [x] 可调整大小的网格项
 - [x] 每个响应断点的布局
 - [x] children 自己，定义网格属性（`data-grid` key）
