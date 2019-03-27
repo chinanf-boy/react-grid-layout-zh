@@ -21,10 +21,9 @@
 <!-- repo = 'STRML/react-grid-layout' -->
 <!-- commit = '80873c88b32755bd0ae028df20edc955c2c55d3e' -->
 <!-- time = '2019-02-02' -->
-
-| 翻译的原文 | 与日期        | 最新更新 | 更多                       |
-| ---------- | ------------- | -------- | -------------------------- |
-| [commit]   | ⏰ 2019-02-02 | ![last]  | [中文翻译][translate-list] |
+翻译的原文 | 与日期 | 最新更新 | 更多
+---|---|---|---
+[commit] | ⏰ 2019-02-02 | ![last] | [中文翻译][translate-list]
 
 [last]: https://img.shields.io/github/last-commit/STRML/react-grid-layout.svg
 [commit]: https://github.com/STRML/react-grid-layout/tree/80873c88b32755bd0ae028df20edc955c2c55d3e
